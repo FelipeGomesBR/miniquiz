@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_default">10dp</dimen>
+    <dimen name="margin_default_item">3dp</dimen>
+    <dimen name="button_margin">15dp</dimen>
+
+    //SP
+    <dimen name="initial_title">24sp</dimen>
+    <dimen name="question_title">16sp</dimen>
+    <dimen name="result_percent">28sp</dimen>
+    <dimen name="height_line">1dp</dimen>
+
+</resources>

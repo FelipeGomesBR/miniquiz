@@ -1,0 +1,23 @@
+<resources>
+    <string name="atention">Atenção</string>
+    <string name="ok">Ok</string>
+    <string name="loading">Aguarde &#8230;</string>
+
+
+    <!--Frame Initial-->
+    <string name="title_initial">Vamos Começar?</string>
+    <string name="hint_name">Digite seu nome</string>
+    <string name="initial_btn">Iniciar</string>
+    <string name="initial_name_empty">Você deve digitar seu nome!</string>
+
+    <!--Question-->
+    <string name="error_get_question">Erro ao buscar a pergunta, tente novamente mais tarde!</string>
+    <string name="question_correct">Você acerto a pergunta!</string>
+    <string name="question_wrong">Você errou a pergunta!</string>
+    <string name="question_empty">Você deve selecionar uma opção de resposta!</string>
+    <string name="question_btn">Próxima pergunta</string>
+
+    <!--Frame Initial-->
+    <string name="result_title"> %1$s,\nseu resultado foi de</string>
+    <string name="result_btn">Reiniciar Quiz</string>
+</resources>
