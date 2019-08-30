@@ -6,7 +6,6 @@ import android.content.Context;
 import javax.inject.Singleton;
 
 import br.com.miniquiz.App;
-import br.com.miniquiz.utils.FontManager;
 import dagger.Module;
 import dagger.Provides;
 
@@ -29,11 +28,4 @@ public class AppModule {
     public Context provideContext() {
         return application;
     }
-
-    @Provides
-    @Singleton
-    public FontManager provideFontManager() {
-        return new FontManager(application);
-    }
-
 }

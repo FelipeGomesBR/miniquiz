@@ -39,7 +39,7 @@ public class MainViewModel {
     public MainViewModel(Service service) {
         this.service = service;
         nameUser = new ObservableField<>("");
-        countQuestion = new ObservableField<>(2);
+        countQuestion = new ObservableField<>(10);
         question = new ObservableField<>();
         resultQuestions = new ObservableField<>("0%");
     }
